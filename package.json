@@ -1,0 +1,38 @@
+{
+    "name": "coredx-php",
+    "displayName": "CoreDX-PHP",
+    "description": "Extends CoreDX for development with PHP, Laravel, and WordPress",
+    "icon": "kitchen_sink_php.png",
+    "author": "Daniel Sieradski <daniel@self.agency>",
+    "publisher": "selfagency",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/selfagency/vsc-coredx-php.git"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "felixfbecker.php-debug",
+        "junstyle.php-cs-fixer",
+        "kakumei.php-xdebug",
+        "MehediDracula.php-namespace-resolver",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "codingyu.laravel-goto-view",
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel-extension-pack",
+        "onecentlin.laravel5-snippets",
+        "ryannaddy.laravel-artisan",
+        "stef-k.laravel-goto-controller",
+        "wordpresstoolbox.wordpress-toolbox",
+        "johnbillion.vscode-wordpress-hooks",
+        "mblode.twig-language",
+        "aswinkumar863.smarty-template-support",
+        "anthonydiametrix.acf-snippet",
+        "bmewburn.vscode-intelephense-client"
+    ]
+}
