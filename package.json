@@ -5,30 +5,29 @@
     "icon": "kitchen_sink_php.png",
     "author": "Daniel Sieradski <daniel@self.agency>",
     "publisher": "selfagency",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/selfagency/vsc-coredx-php.git"
     },
     "engines": {
-        "vscode": "^1.87.2"
+        "vscode": "^1.110.0"
     },
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [
-        "anthonydiametrix.acf-snippet",
         "aswinkumar863.smarty-template-support",
+        "brapifra.phpserver",
         "DEVSENSE.composer-php-vscode",
         "DEVSENSE.intelli-php-vscode",
         "DEVSENSE.phptools-vscode",
         "DEVSENSE.profiler-php-vscode",
-        "johnbillion.vscode-wordpress-hooks",
         "junstyle.php-cs-fixer",
+        "laravel.vscode-laravel",
         "mblode.twig-language",
-        "MehediDracula.php-namespace-resolver",
-        "onecentlin.laravel-extension-pack",
-        "wordpresstoolbox.wordpress-toolbox",
+        "phiter.phpstorm-snippets",
+        "stoildobreff.php-resolver",
         "xdebug.php-debug"
     ]
 }
